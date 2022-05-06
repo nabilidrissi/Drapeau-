@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        tools:context=".ui.QuizWonFragment">
+
+        <ImageView
+            android:id="@+id/ivOver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/quiz_sad_face_content"
+            android:maxHeight="250dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_over"
+            app:layout_constraintBottom_toTopOf="@+id/tvResultSorry"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="packed" />
+
+        <TextView
+            android:id="@+id/tvResultSorry"
+            style="@style/WonOverText"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/quiz_sorry_lose"
+            app:layout_constraintBottom_toTopOf="@+id/btnWonFinish"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivOver" />
+
+        <Button
+            android:id="@+id/btnWonFinish"
+            style="@style/Button"
+            android:layout_width="0dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/quiz_btn_finish"
+            app:layout_constraintBottom_toTopOf="@+id/btnTryAgain"
+            app:layout_constraintEnd_toEndOf="@+id/btnTryAgain"
+            app:layout_constraintStart_toStartOf="@+id/btnTryAgain"
+            app:layout_constraintTop_toBottomOf="@+id/tvResultSorry" />
+
+        <Button
+            android:id="@+id/btnTryAgain"
+            style="@style/Button"
+            android:text="@string/quiz_try_again"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnWonFinish" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

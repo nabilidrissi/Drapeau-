@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anibalventura.flagsquiz">
+
+    <application
+        android:name=".Utils"
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:versionCode="2"
+        android:versionName="1.0.1">
+        <!-- MainActivity -->
+        <activity
+            android:name=".ui.MainActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- WelcomeActivity -->
+
+        <!-- SettingsActivity -->
+
+    </application>
+</manifest>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/Desktop/backUp/version qui marche2/flags-quiz-master/app/src/main/res/layout/fragment_quiz.xml" value="0.1016914191419142" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable-hdpi/ic_heart.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/bg_correct_answer_border.xml" value="0.1115" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/bg_default_answer_border.xml" value="0.1115" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/bg_selected_answer_border.xml" value="0.1115" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_about.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_delete.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_flag.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_history.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_home.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_over.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_person.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_rules.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_settings.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_share_app.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_share_score.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_theme.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/ic_trophy.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/na_antigua_and_barbuda_flag.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/sa_venezuela_flag.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/drawable/splash_layout.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/correcte_answer_pop_up.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_history.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_quiz.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_quiz_over.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_quiz_won.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_rules.xml" value="0.22" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/fragment_share_app.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/game_over.xml" value="0.20843230403800475" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/lose_test.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/recyclerview_history.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/layout/rong_answer_pop_up.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/menu/delete_menu.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/menu/navdrawer_menu.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/menu/share_menu.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/jeux choisit par Anass/flags-quiz-master/app/src/main/res/xml/settings_preferences.xml" value="0.15489130434782608" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

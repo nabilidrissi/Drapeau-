@@ -1,0 +1,10 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="primaryColor">#004ba0</color>
+    <color name="primaryDarkColor">#004ba0</color>
+    <color name="accentColor">#FFFFFF</color>
+    <color name="secondaryTextColor">#FFFFFF</color>
+    <color name="iconColor">#FFFFFF</color>
+    <color name="quizBgWrong">#B3BF3838</color>
+    <color name="editTextColor">#FFFFFF</color>
+</resources>
