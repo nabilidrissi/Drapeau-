@@ -8,7 +8,7 @@
     android:paddingBottom="2dp"
     android:paddingTop="2dp"
     android:orientation="vertical"
-    android:background="#DFDED9"
+    android:background="#FFFFFF"
     android:layout_gravity="center"
     android:radius="100dp"
     >
@@ -26,12 +26,12 @@
 
     <ImageView
         android:id="@+id/okrong"
-        android:layout_width="100dp"
-        android:layout_height="140dp"
+        android:layout_width="200dp"
+        android:layout_height="160dp"
         android:layout_below="@+id/textrong"
-        android:layout_marginLeft="300dp"
+        android:layout_marginLeft="250dp"
         android:layout_marginTop="10dp"
-        android:src="@drawable/ok" />
+        android:src="@drawable/okk" />
 
     <TextView
         android:layout_width="150dp"
